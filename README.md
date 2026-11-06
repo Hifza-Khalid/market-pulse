@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-  <img src="docs/demo.gif" alt="Market Pulse Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
+  <img src="docs/demo.mp4" alt="Market Pulse Demo" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);">
 </div>
 
 ---
